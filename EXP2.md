@@ -1,6 +1,6 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE: 20-09-2024                                                                          
+### DATE:                                                                          
 ### REGISTER NUMBER : 212222040030
 
 ### AIM: 
@@ -60,14 +60,12 @@ if(r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric()):
 
 else:
     print("enter a valid number")
+
 ```
 
 
 ### Output:
-
-
-
-
+![image](https://github.com/user-attachments/assets/5d115c35-f281-41d3-8116-7a9066746aac)
 
 
 ### Result:
