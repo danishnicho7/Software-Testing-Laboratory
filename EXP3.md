@@ -1,6 +1,6 @@
 # Ex.No: 3 To check the number is prime or not and inspect for failures.
  
-### DATE:  04/10/24                                                                          
+### DATE:                                                                        
 ### REGISTER NUMBER : 212222040030
 ### AIM: 
 Write a python program to check the number is prime or not and inspect for failures.
@@ -44,40 +44,11 @@ else:
 
 ### Output:
 ```
-3
-Prime Number
+![image](https://github.com/user-attachments/assets/1f506d2a-9c93-4f6f-a5dc-f87264808389)
 
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-4
-Prime Number
 
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
--3
-Enter a Positive Number
 
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-0
-Not a Prime Number
 
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-jk
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-4221445224742
-Not a Prime Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
---
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-@@
-Enter a Positive Number
-
-================= RESTART: C:/Users/SEC/Desktop/figma/stlpy3.py ================
-333336
-Not a Prime Number
 
 ```
 ### Result:
