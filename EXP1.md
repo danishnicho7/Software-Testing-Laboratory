@@ -1,6 +1,6 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE: 20/09/24                                                                          
+### DATE:                                                                          
 ### REGISTER NUMBER : 212222040030
 
 ### AIM:  
@@ -104,8 +104,17 @@ iterate()
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/05fdc0c2-d509-4196-8fc6-de06e2f6b540)
 
+![image](https://github.com/user-attachments/assets/78e87b9f-753a-4a20-9def-0cd4486393fe)
 
+![image](https://github.com/user-attachments/assets/a61e1d0b-0b81-4c70-b5d0-9cc2da8b32e4)
+
+![image](https://github.com/user-attachments/assets/51c63f74-9829-4604-902a-2948ecc348ef)
+
+![image](https://github.com/user-attachments/assets/badad15a-7fec-4269-a0cb-7054c6026014)
+
+![image](https://github.com/user-attachments/assets/e8b5abcc-e3b1-4f31-8296-be8437fb7cd9)
 
 
 
