@@ -25,7 +25,7 @@ c = 1
 for i in s:
     if not i.isalpha():
         c = 0
-        break  # Exit the loop if a non-alpha character is found
+        break  
 
 if c == 0:
     print("Enter a valid string")
