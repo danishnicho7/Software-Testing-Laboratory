@@ -103,7 +103,7 @@ iterate()
 
 
 ### Output:
-
+```
 ![image](https://github.com/user-attachments/assets/05fdc0c2-d509-4196-8fc6-de06e2f6b540)
 
 ![image](https://github.com/user-attachments/assets/78e87b9f-753a-4a20-9def-0cd4486393fe)
@@ -114,7 +114,7 @@ iterate()
 
 ![image](https://github.com/user-attachments/assets/badad15a-7fec-4269-a0cb-7054c6026014)
 
-
+```
 
 
 
